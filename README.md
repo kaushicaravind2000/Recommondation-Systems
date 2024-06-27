@@ -10,15 +10,13 @@ This repository will contain implementations of various recommendation systems, 
   - [Content-Based Filtering](#content-based-filtering)
   - [Matrix Factorization](#matrix-factorization)
   - [Hybrid Methods](#hybrid-methods)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/recommendation-systems.git
-   cd recommendation-systems
+   git clone https://github.com/kaushicaravind2000/Recommondation-Systems.git
+   cd Recommondation-Systems
 2. Install the required dependencies: 
 ```sh
 pip install -r requirements.txt
