@@ -20,6 +20,7 @@ This repository will contain implementations of various recommendation systems, 
    git clone https://github.com/your-username/recommendation-systems.git
    cd recommendation-systems
 2. Install the required dependencies:
+  ```sh
   pip install -r requirements.txt
 
 ## Recommendation Systems
